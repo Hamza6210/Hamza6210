@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Who am I?
+
+Hi, I’m Hamza — a WordPress & web developer focused on building scalable, user-friendly, and performance-driven web applications.
+
+🔭 What I’m working on
+
+Currently working on an ERP system
+💬 Ask me about a CRM
+
+🛠️ Tools & Technologies
+Frontend: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap
+Backend: Node.js, Express.js
+Database: PostgreSQL, MySQL
+CMS: WordPress (Elementor, Custom Development)
+Tools: GitHub, VS Code, APIs, REST integrations
+
+
+📫 How to reach me
+Email: hamzajamil6210@gmail.com
+LinkedIn: www.linkedin.com/in/muhammad-hamza-jamil-dev
+Upwork: (https://www.upwork.com/freelancers/~019723e463b40e7247?mp_source=share)
