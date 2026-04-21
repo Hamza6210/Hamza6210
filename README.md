@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Who am I?
 
-Hi, I’m Hamza — a WordPress & web developer focused on building scalable, user-friendly, and performance-driven web applications. <br>
+Hi, I’m Hamza — a Full Stack Developer focused on building scalable, user-friendly, and performance-driven web applications. <br>
 
 <br>
 🔭 What I’m working on
