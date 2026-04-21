@@ -39,4 +39,5 @@ Tools: GitHub, VS Code, APIs, REST integrations
 
 Email: hamzajamil6210@gmail.com <br>
 LinkedIn: www.linkedin.com/in/muhammad-hamza-jamil-dev <br>
-Upwork: (https://www.upwork.com/freelancers/~019723e463b40e7247?mp_source=share)
+Upwork: https://www.upwork.com/freelancers/~019723e463b40e7247?mp_source=share <br>
+Fiver: https://www.fiverr.com/s/XL24Pb0
