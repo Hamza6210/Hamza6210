@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 👋 Who am I?
 
-Hi, I’m Hamza — a Full Stack Developer focused on building scalable, user-friendly, and performance-driven web applications. <br>
+Hi, I’m Hamza <!-- — a Full Stack Developer focused on building scalable, user-friendly, and performance-driven web applications. <br>
 
 <br>
 🔭 What I’m working on
@@ -41,3 +41,4 @@ Email: hamzajamil6210@gmail.com <br>
 LinkedIn: www.linkedin.com/in/muhammad-hamza-jamil-dev <br>
 Upwork: https://www.upwork.com/freelancers/~019723e463b40e7247?mp_source=share <br>
 Fiver: https://www.fiverr.com/s/XL24Pb0
+--!>
